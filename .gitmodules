@@ -4,3 +4,6 @@
 [submodule "lib/NimBLE-Arduino"]
 	path = lib/NimBLE-Arduino
 	url = git@github.com:h2zero/NimBLE-Arduino.git
+[submodule "lib/Adafruit_MLX90393"]
+	path = lib/Adafruit_MLX90393
+	url = git@github.com:adafruit/Adafruit_MLX90393_Library.git
