@@ -1,0 +1,6 @@
+[submodule "lib/ESP32-BLE-Gamepad"]
+	path = lib/ESP32-BLE-Gamepad
+	url = git@github.com:lemmingDev/ESP32-BLE-Gamepad.git
+[submodule "lib/NimBLE-Arduino"]
+	path = lib/NimBLE-Arduino
+	url = git@github.com:h2zero/NimBLE-Arduino.git
